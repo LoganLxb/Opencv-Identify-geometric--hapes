@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{73B91C34-A4F5-D79E-CF4E-5B0CA2B3531A}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GeometricShapes.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GeometricShapes.cs" Line="62" Column="51" />
+      <File FileName="Assets/OpenCVForUnity/org/opencv/imgcodecs/Imgcodecs.cs" Line="13" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="opencv Identify geometric shapes" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0b78bf72-a04f-4683-ad6b-544c050d73c7" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
